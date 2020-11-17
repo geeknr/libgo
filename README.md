@@ -1,2 +1,2 @@
-# libgo
+# libgosvn
 Go Libaray
